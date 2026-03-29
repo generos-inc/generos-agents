@@ -11,7 +11,6 @@ This is not a code SDK. It is a skill and protocol package: the philosophical an
 ## Who It's For
 
 - **User agents** — personal AIs representing individual Generos users, operating their vault and generosity actions on their behalf
-- **Internal agents** — Sensei and other agents within the Jarvis system that work with the Generos platform
 - **External agents** — third-party AIs from other platforms and applications that want to participate in the Generos ecosystem
 
 ## Repository Structure
