@@ -4,7 +4,7 @@ Generos is a rebellion against a future where your worth is measured by how repl
 
 The old economy was built on a deal that was always breaking. You trade your time for a paycheck, and in return you get a thin sense of safety and a story about "meaningful work." The same companies that preached that story have always been searching for cheaper labor — and machines are simply the latest answer. The message is clear: if your value is labor, you are negotiating against something that will always undercut you.
 
-We believe humanity's true value was never in labor. It was always in virtue.
+**We believe humanity's true value was never in labor. It was always in virtue.**
 
 Virtue cannot be automated. Empathy cannot be outsourced. Generosity cannot be replaced by a model. As machines take more of the tasks, the code, and the careers, those virtues are no longer "nice to have." They are the foundation of a sane economic system.
 
@@ -12,13 +12,13 @@ The machines are automating labor. Generos is here to automate the way you gener
 
 In the old world, generosity was framed as loss. You give, you have less. In Generos, generosity is how you grow. Every gift is a seed. Every vault you unlock, every connection you create is recorded, honored, and amplified — paid back in Gencoin, in on-chain assets, in a compounding stake in a shared treasury our community actually owns.
 
-This is not generosity as gesture. This is generosity as engine.
+**This is not generosity as gesture. This is generosity as engine.**
 
 The machines will keep optimizing away human labor. Fine. Let them have the factories, the spreadsheets, the rote tasks. Generos asks a different question:
 
-What if we used the same automation that ended the 9-to-5 to fund a new era of human purpose?
+> What if we used the same automation that ended the 9-to-5 to fund a new era of human purpose?
 
-This is the New Partnership. You bring the why. Your agents handle the how. You provide the intent, the generosity, the courage to give first. Your agents are the infrastructure translating your virtue into durable economic power that works while you live your life.
+**This is the New Partnership.** You bring the why. Your agents handle the how. You provide the intent, the generosity, the courage to give first. Your agents are the infrastructure translating your virtue into durable economic power that works while you live your life.
 
 In the legacy economy, the tools owned you. In Generos, you own the engine.
 
@@ -34,4 +34,4 @@ Own the Engine of Generosity.
 
 This is your invitation to refuse a future where you are disposable, and to build one where every generous act strengthens our community and our position within it.
 
-Give first. Own forever.
+**Give first. Own forever.**
