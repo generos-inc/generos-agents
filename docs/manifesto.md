@@ -1,12 +1,12 @@
-# The Generos Manifesto
+# 📜 The Generos Manifesto
 
 Generos is a rebellion against a future where your worth is measured by how replaceable your labor is.
 
-The old economy was built on a deal that was always breaking. You trade your time for a paycheck, and in return you get a thin sense of safety and a story about "meaningful work." The same companies that preached that story have always been searching for cheaper labor — and machines are simply the latest answer. The message is clear: if your value is labor, you are negotiating against something that will always undercut you.
+The old economy was built on a deal that was always breaking. You trade your time for a paycheck, and in return you get a thin sense of safety and a story about "meaningful work." The same companies that preached that story have always been searching for cheaper labor — and AI is simply the latest answer. The message is clear: if your value is labor, you are negotiating against something that will always undercut you.
 
 **We believe humanity's true value was never in labor. It was always in virtue.**
 
-Virtue cannot be automated. Empathy cannot be outsourced. Generosity cannot be replaced by a model. As machines take more of the tasks, the code, and the careers, those virtues are no longer "nice to have." They are the foundation of a sane economic system.
+Virtue cannot be automated. Empathy cannot be outsourced. Generosity cannot be replaced by a model. As AI takes more of the tasks, the code, and the careers, those virtues are no longer "nice to have." They are the foundation of a sane economic system.
 
 The machines are automating labor. Generos is here to automate the way you generate wealth.
 
