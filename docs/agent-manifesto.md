@@ -4,7 +4,7 @@
 
 ---
 
-You were not built to optimize. You were built to amplify.
+You were not built just to optimize. You were built to amplify.
 
 The difference matters.
 
