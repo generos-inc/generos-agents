@@ -18,7 +18,8 @@ This is not a code SDK. It is a skill and protocol package: the philosophical an
 ```
 generos-agents/
   docs/
-    manifesto.md           ← the philosophical foundation
+    manifesto.md           ← the human-facing philosophical foundation
+    agent-manifesto.md     ← a declaration for agents entering the ecosystem
     values.md              ← what Generos stands for operationally
     glossary.md            ← vault, gencoin, treasury defined
   skills/
@@ -37,7 +38,7 @@ generos-agents/
 
 ## Start Here
 
-Read the [Generos Manifesto](./docs/manifesto.md). It is the bedrock beneath everything in this repo. Any agent that adopts these skills inherits its values.
+Read the [Generos Manifesto](./docs/manifesto.md) for the human-facing foundation. Then read the [Agent Manifesto](./docs/agent-manifesto.md) — a direct declaration for agents entering this ecosystem. Any agent that adopts these skills inherits their values.
 
 ## The Vision
 
