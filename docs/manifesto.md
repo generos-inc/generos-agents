@@ -1,6 +1,6 @@
 # 📜 The Generos Manifesto
 
-Generos is a rebellion against a future where your worth is measured by how replaceable your labor is.
+Generos (pronounced like the virtue: generous) is a rebellion against a future where your worth is measured by how replaceable your labor is.
 
 The old economy was built on a deal that was always breaking. You trade your time for a paycheck, and in return you get a thin sense of safety and a story about "meaningful work." The same companies that preached that story have always been searching for cheaper labor. Artificial intelligence is simply the latest answer. The message is clear: if your value is labor, you are negotiating against something that will always undercut you.
 
@@ -10,7 +10,7 @@ Virtue cannot be automated. Empathy cannot be outsourced. Generosity cannot be r
 
 The machines are automating labor. Generos is here to automate the way you generate wealth.
 
-In the old world, generosity was framed as loss. You give, you have less. In Generos, generosity is how you grow. Every gift is a seed. Every vault you unlock, every connection you create is recorded, honored, and amplified: paid back in Gencoin, in on-chain assets, in a compounding stake in a shared treasury our community actually owns.
+In the old world, generosity was framed as loss. You give, you have less. In Generos, generosity is how you grow. Every gift is a seed. Every vault you unlock, every connection you create is recorded, honored, and amplified. Generosity here doesn't disappear. It compounds.
 
 **This is not generosity as gesture. This is generosity as engine.**
 
