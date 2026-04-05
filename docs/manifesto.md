@@ -10,7 +10,7 @@ Virtue cannot be automated. Empathy cannot be outsourced. Generosity cannot be r
 
 The machines are automating labor. Generos is here to automate the way you generate wealth.
 
-In the modern charitable economy, generosity is framed as loss. You give, they receive, and you have less. Ancient wisdom always knew otherwise. Every tradition that endures has said: the giver receives. Generos is the first protocol to make that economically verifiable. In Generos, generosity is how you grow. Every gift is a seed. Every act of generosity is recorded, honored, and amplified. Generosity here doesn't disappear. It compounds.
+In the modern charitable economy, generosity is framed as loss. You give, they receive, and you have less. Ancient wisdom always knew otherwise. Every tradition that endures has said: the giver receives. Generos is the first protocol to make that economically verifiable. In Generos, generosity is how you grow. Every gift is a seed. Nothing you give is lost. Generosity here doesn't disappear. It compounds.
 
 **This is not generosity as gesture. This is generosity as engine.**
 
