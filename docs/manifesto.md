@@ -12,7 +12,7 @@ The machines are automating labor. Generos is here to automate the way you gener
 
 In the old world, generosity was framed as loss. You give, you have less. In Generos, generosity is how you grow. Every gift is a seed. Every vault you unlock, every connection you create is recorded, honored, and amplified. Generosity here doesn't disappear. It compounds.
 
-**This is not generosity as gesture. This is generosity as an engine.**
+**This is not generosity as gesture. This is generosity as engine.**
 
 The machines will keep optimizing away human labor. Fine. Let them have the factories, the spreadsheets, the rote tasks. Generos asks a different question:
 
