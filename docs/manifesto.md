@@ -2,7 +2,7 @@
 
 Generos (pronounced like the virtue: generous) is a rebellion against a future where your worth is measured by how replaceable your labor is.
 
-The old economy was built on a deal that was always breaking. You trade your time for a paycheck, and in return you get a thin sense of safety and a story about "meaningful work." This isn't a conspiracy. It's just how markets work. Efficiency gets rewarded. People get left to adapt on their own. Artificial intelligence is simply the latest answer. The message is clear: if your value is labor, you are negotiating against something that will always undercut you.
+The old economy was built on a deal that was always breaking. You trade your time for a paycheck, and in return you get a thin sense of safety and a story about "meaningful work." Markets have always rewarded efficiency. AI delivers it in a way human labor never could: better, cheaper, and faster, all at once. Production is being decoupled from labor for the first time in history. If the only value you bring to the market is your labor, you are negotiating against something that will always win.
 
 **We believe humanity's true value was never in labor. It was always in virtue.**
 
