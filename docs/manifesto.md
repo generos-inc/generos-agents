@@ -8,7 +8,7 @@ The old economy was built on a deal that was always breaking. You trade your tim
 
 Virtue cannot be automated. Empathy cannot be outsourced. Generosity cannot be replaced by a model. As AI takes more of the tasks, the code, and the careers, those virtues are no longer "nice to have." They are the foundation of a sane economic system.
 
-The machines are automating labor. Generos is here to make generosity more valuable than labor ever was.
+The machines are automating labor. Generos is here to turn generosity into capital, making it more valuable than labor ever was.
 
 In the modern charitable economy, generosity is framed as loss. You give, they receive, and you have less. Ancient wisdom always knew otherwise. Every tradition that endures has said: the giver receives. Generos is the first protocol to make that economically verifiable. In Generos, generosity is how you grow. Every gift is a seed. Nothing you give is lost. It compounds.
 
